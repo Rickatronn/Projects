@@ -1,7 +1,9 @@
 # Projects
 Hello, this is my collection of school and personal projects! Click on any project titles to review my work. Thanks!
 
-# SQL
+
+
+## SQL
 
 | Project         | Description          | Skills Utilized  |
 | :------------------- |:---------------------:| :--------------:|
@@ -9,14 +11,18 @@ Hello, this is my collection of school and personal projects! Click on any proje
 | BTA 415 - [Analyzing NYC Public School Test Result Scores](https://github.com/Rickatronn/Projects/blob/main/NYC.ipynb)  | Each year, American high school students take the SAT, a standardized test that evaluates their reading, math, and writing skills with a maximum score of 800 points per section. As these tests play a critical role in the admissions process for both students and colleges, analyzing the performance of schools is essential for education professionals, policymakers, and parents. This notebook explores data on SAT scores across public schools in New York City, providing insights into the academic performance of students in the region   | **SQL Functions:** filtering, counting, sorting, grouping, aggregating |
 |  |  |   |
 
-# Python
+
+
+## Python
 
 | Project         | Description          | Skills Utilized  |
 | :------------------- |:---------------------:| :--------------:|
 | BTA 419 - [Term Deposit Marketing Campaign](https://github.com/Rickatronn/Projects/blob/main/Ricky-Truong-BTA419-W23%20.ipynb)     | The data pertains to the direct marketing campaigns (via phone calls) conducted by a Portuguese banking institution. These campaigns were primarily phone-based and often necessitated multiple contacts with the same client to determine their interest in subscribing to a bank term deposit (either 'yes' or 'no'). The main objective of the analysis is to predict the likelihood of clients subscribing to a term deposit, which is represented by the variable 'y' | **Python Modules**: matplotlib, pandas, seaborn, scikit-learn
 |  |  |   |
 
-# Other Projects
+
+
+## Other Projects
 
 | Project        | Description           | Skills Utilized  |
 | :-------------------: |:---------------------:| :--------------:|
