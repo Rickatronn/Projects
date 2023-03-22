@@ -13,7 +13,7 @@ Hello, this is my collection of school and personal projects! Click on any proje
 
 | Project         | Description          | Modules Utilized  |
 | :------------------- |:---------------------:| :--------------:|
-| BTA 419 - [Term Deposit Marketing Campaign](https://github.com/Rickatronn/Bank-Dataset-Project-BTA-419/blob/main/Ricky-Truong-BTA419-W23%20.ipynb)     | The data pertains to the direct marketing campaigns (via phone calls) conducted by a Portuguese banking institution. These campaigns were primarily phone-based and often necessitated multiple contacts with the same client to determine their interest in subscribing to a bank term deposit (either 'yes' or 'no'). The main objective of the analysis is to predict the likelihood of clients subscribing to a term deposit, which is represented by the variable 'y' | matplotlib, pandas, seaborn, scikit-learn
+| BTA 419 - [Term Deposit Marketing Campaign](https://github.com/Rickatronn/Projects/blob/main/Ricky-Truong-BTA419-W23%20.ipynb)     | The data pertains to the direct marketing campaigns (via phone calls) conducted by a Portuguese banking institution. These campaigns were primarily phone-based and often necessitated multiple contacts with the same client to determine their interest in subscribing to a bank term deposit (either 'yes' or 'no'). The main objective of the analysis is to predict the likelihood of clients subscribing to a term deposit, which is represented by the variable 'y' | matplotlib, pandas, seaborn, scikit-learn
 |  |  |   |
 
 # Other Projects
