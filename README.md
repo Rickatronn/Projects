@@ -11,9 +11,9 @@ Hello, this is my collection of school and personal projects! Click on any proje
 
 # Python
 
-| Project Name        | Description          | SQL Functions  |
+| Project Name        | Description          | Python Skills  |
 | :------------------- |:---------------------:| :--------------:|
-| [When Was the Golden Age of Video Games?](https://github.com/kegraham91/My-Projects/blob/main/When%20Was%20the%20Golden%20Age%20of%20Video%20Games%3F.ipynb)     | I searched for the best year(s) for video games by identifying release years that users and critics liked best, and  explored sales data. | Joins, set theory, filter, group, order data. |
+| [Term Deposit Marketing Campaign](https://github.com/Rickatronn/Bank-Dataset-Project-BTA-419/blob/main/Ricky-Truong-BTA419-W23%20.ipynb)     | The data is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. The classification goal is to predict if the client will subscribe a term deposit (variable y) | Joins, set theory, filter, group, order data. |
 |  |  |   |
 
 # Other Projects
